@@ -1,1 +1,5 @@
+body{max-width:900px;margin:0 auto;padding:24px;line-height:1.6;font-family:system-ui,-apple-system,Segoe UI,Roboto}
+header,footer{opacity:.8}
+nav a{margin-right:12px;text-decoration:none}
+main h2{margin-top:1.6em}
 
