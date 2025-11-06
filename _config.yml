@@ -1,1 +1,5 @@
+title: "Pengwei's Blog"
+description: "Vision • Fusion • Agents"
+theme: minima          # 也可换其他 remote_theme
+markdown: kramdown
 
